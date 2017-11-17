@@ -1,0 +1,12 @@
+---
+title:      Peak Launch
+ongoing:    false
+start: 		2017-11-03
+archive:	2017-11-04
+cover:      /media/launch.jpg
+tagline:    Friday November 3rd 2017, 6pm - 9pm
+---
+
+Grand opening. Come and have a drink and possibly some popcorn.
+
+[How to find us](/contact/)

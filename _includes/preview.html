@@ -1,0 +1,21 @@
+<div class="snippet">
+  <a href="{{ post.url | prepend: site.baseurl }}">
+    <div class="image-box">
+        {% if post.thumb %}
+            <img src="{{ site.baseurl }}{{ post.thumb }}">
+        {% elsif post.cover %}
+            <img src="{{ site.baseurl }}{{ post.cover }}">
+        {% else %}
+            <img src="{{ site.baseurl }}{{ site.cover }}">
+        {% endif %}
+        <container class="text-overlay">
+                <h1 class="title">{{ post.title }}</h1><br>
+                {% if post.ongoing %}
+                <h1 class="tagline">{{ post.start | date_to_string }} -- {{ post.end | date_to_string }}</h1>
+                {% else %}
+                <h1 class="tagline">{{ post.start | date: "%a, %b %d, %Y" }}</h1>
+                {% endif %}
+        </container>
+    </div>
+  </a>
+</div>

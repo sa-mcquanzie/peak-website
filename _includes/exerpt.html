@@ -1,0 +1,4 @@
+{% if post.excerpt %}
+      <p>{{ post.excerpt }}</p>
+      <a href="{{ post.url | prepend: site.baseurl }}"><p style="text-align:center; font-weight: bolder;">More</p></a>
+{% endif %}

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Home
+---
+
+{% assign tmp = "/" | append: site.baseurl %}
+{% if page.url == tmp or page.url == "/" %}
+    <div class="divider"></div>
+    {% include postlist.html %}
+{% else %}
+    <h1 class="top-text">More ...</h1>
+    {% include postlist.html %}
+{% endif %}

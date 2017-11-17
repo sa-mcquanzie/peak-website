@@ -1,0 +1,84 @@
+{% capture todaysdate %}{{ 'now' | date: '%s' }}{% endcapture %}
+
+<!-- Loop through current events -->
+<div class="postlist-container">
+{% for post in paginator.posts | sort: "start" %}
+  {% capture archivedate %}{{ post.archive | convert: "date" | date: '%s' }}{% endcapture %}
+  {% capture startdate %}{{ post.start | convert: "date" | date: '%s' }}{% endcapture %}
+  {% assign current_events = "" split: "" %}
+  {% if archivedate > todaysdate %}
+    {% if startdate < todaysdate %}
+        <br />
+        <div class="postlist-heading">
+          <h1>Now at Peak</h1>
+        </div>
+        {% include preview.html %}
+        {% include exerpt.html %}   
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</div>
+
+
+<!-- Loop through upcoming events -->
+<div class="postlist-container">
+{% for post in paginator.posts reversed %}
+  {% if forloop.first %}
+    <br />
+    <div class="postlist-heading">
+        <h1>Upcoming Events</h1>
+    </div>
+  {% endif %}
+  {% capture startdate %}{{ post.start | convert: "date" | date: '%s' }}{% endcapture %}
+    {% if startdate > todaysdate %}
+      {% include preview.html %}
+      {% include exerpt.html %}
+    {% endif %}
+  }
+{% endfor %}
+</div>
+
+
+<!-- Loop through past events -->
+{% for post in paginator.posts %}
+  {% if forloop.first %}
+    <br />
+    <div class="postlist-heading">
+        <h1>Past Events</h1>
+    </div>
+  {% endif %}
+  {% capture archivedate %}{{ post.archive | convert: "date" | date: '%s' }}{% endcapture %}
+  {% if archivedate < todaysdate %}
+
+    {% include preview.html %}
+  {% endif %}
+{% endfor %}
+
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
+

@@ -1,0 +1,25 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+/* Text colors */
+$highlight-color: #FF6a80;
+$lightest-color: #cccccc;
+$light-color: #8a8a8a;
+$normal-color: #4a4a4a;
+$dark-color: #1a1a1a;
+
+/* Background colors */
+$bg-color: #000000;
+$bg-color-dark-backup: rgb(0,0,0);
+$bg-color-dark: rgba(0,0,0,.75);
+
+/* Dimensions */
+$column-width: 900px;
+$column-padding: 10px;
+$column-width-trigger: $column-width + 2*$column-padding;
+$cover-image-height: 300px;
+$cover-image-width: 900px;
+$cover-image-top-padding: 0px;
+
+@import "ezora";
