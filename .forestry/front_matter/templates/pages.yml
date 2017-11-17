@@ -1,0 +1,36 @@
+---
+pages:
+- _pages/contact/index.md
+- index.html
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: default
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: tagline
+  label: Tagline
+  type: text
+  hidden: false
+  default: ''
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: false
+  default: ''
+- name: cover
+  label: Cover
+  type: text
+  hidden: false
+  default: "/media/header.jpg"
+- name: author
+  label: Author
+  type: text
+  hidden: false
+  default: Marilyn Thompson

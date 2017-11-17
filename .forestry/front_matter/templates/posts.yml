@@ -1,0 +1,57 @@
+---
+pages:
+- _posts/2017-10-24-launch.markdown
+- _posts/natasha-williams.markdown
+- _posts/mascha-agoscini.markdown
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: ongoing
+  label: Ongoing
+  type: boolean
+  hidden: false
+  default: ''
+- name: start
+  label: Start
+  type: datetime
+  hidden: false
+  default: ''
+- name: end
+  label: End
+  type: datetime
+  hidden: false
+  default: ''
+- name: archive
+  label: Archive
+  type: datetime
+  hidden: false
+  default: ''
+- name: cover
+  label: Cover
+  type: text
+  hidden: false
+  default: "/media/header.jpg"
+- name: tagline
+  label: Tagline
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: post
+- name: author
+  label: Author
+  type: text
+  hidden: false
+  default: Marilyn Thompson
