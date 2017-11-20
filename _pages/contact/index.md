@@ -4,7 +4,6 @@ title: Contact
 tagline: Get in touch & visit Peak
 permalink: "/contact/"
 cover: "/media/contact.jpg"
-#top-text: "How to find us"
 ---
 
 Peak is located in Unit 340A on the ground floor of the Elephant and Castle Shopping Centre, London, SE1 6TE
