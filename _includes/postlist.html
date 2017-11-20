@@ -13,7 +13,6 @@
           <h1>Now at Peak</h1>
         </div>
         {% include preview.html %}
-        {% include exerpt.html %}   
     {% endif %}
   {% endif %}
 {% endfor %}
@@ -32,7 +31,6 @@
   {% capture startdate %}{{ post.start | convert: "date" | date: '%s' }}{% endcapture %}
     {% if startdate > todaysdate %}
       {% include preview.html %}
-      {% include exerpt.html %}
     {% endif %}
 {% endfor %}
 </div>
