@@ -1,15 +1,16 @@
 <nav>
-    <a href="{{ site.baseurl }}/">Home</a>
+    <a href="{{ site.baseurl }}/">Home</a>    
+    <span class="separator">&bull;</span>
     {% for pages in site.pages %}
         {% if pages.title != "Home" %}
-            <span class="separator">&bull;</span>
             <a href="{{ site.baseurl }}{{ pages.permalink }}">{{ pages.title }}</a>
         {% endif %}
     {% endfor %}
+    <span class="separator">&bull;</span>
     {% if site.facebook %}
         <a href="https://www.facebook.com/{{ site.facebook }}"><i class="fa fa-facebook"></i></a>
-        <span class="separator">&bull;</span>
     {% endif %}
+    <span class="separator">&bull;</span>
     {% if site.instagram %}
         <a href="https://www.instagram.com/{{ site.instagram }}"><i class="fa fa-instagram"></i></a>
     {% endif %}
