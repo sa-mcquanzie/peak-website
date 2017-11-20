@@ -1,5 +1,5 @@
 ---
-title: Mascha Agoscini
+title: Mascha Angoscini
 ongoing: true
 start: 2017-11-24 00:00:00 +0000
 end: 2017-12-04 00:00:00 +0000
