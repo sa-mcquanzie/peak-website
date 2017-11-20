@@ -1,11 +1,12 @@
 ---
-title:      Mascha Agoscini
-ongoing:    true
-start:      2017-11-24
-end:        2017-12-06
-archive:	  2017-12-07
-cover:      /media/mascha-header.jpg
-tagline:    Alcatraz Notes
+title: Mascha Agoscini
+ongoing: true
+start: 2017-11-24 00:00:00 +0000
+end: 2017-12-06 00:00:00 +0000
+archive: 2017-12-07 00:00:00 +0000
+cover: "/media/mascha-header.jpg"
+tagline: Alcatraz Notes
+date: 2017-11-20 13:38:34 +0000
 ---
 
 Mascha Angoscini (from Italy) is a cat lover who loves felines to roam and play within her creativity. 

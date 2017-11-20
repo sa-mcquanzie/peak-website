@@ -1,11 +1,12 @@
 ---
-title:      Natasha Williams
-ongoing:    true
-start:      2017-12-06
-end:        2017-12-22
-archive:	  2017-12-23
-cover:      /media/tasha-header.jpg
-tagline:    Icons
+title: Natasha Williams
+ongoing: true
+start: 2017-12-06 00:00:00 +0000
+end: 2017-12-22 00:00:00 +0000
+archive: 2017-12-23 00:00:00 +0000
+cover: "/media/tasha-header.jpg"
+tagline: Icons
+date: 2017-11-20 13:38:34 +0000
 ---
 
 Natasha William yadda yadda yadda... 
