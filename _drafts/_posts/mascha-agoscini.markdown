@@ -7,14 +7,11 @@ archive: 2017-12-07 00:00:00 +0000
 cover: "/media/mascha-header.jpg"
 tagline: Alcatraz Notes
 date: 2017-11-20 13:38:34 +0000
+layout: post
+author: Marilyn Thompson
 ---
+Italian esoteric feline extravaganza.
 
-Mascha Angoscini (from Italy) is a cat lover who loves felines to roam and play within her creativity. 
-
-<!--more-->
-
-She has exhibited in Italy with Novella Parigini, her mentor: who shares a very privileged Cat vision. In London she has exhibited for the Feline Art Society and at the Music Room. Mascha illustrated and published ‘A view from the cat’ about her life in Garcia’s time. So here is the exhibition which tell us she is so sorry to be to much human and wishes to remember more the wet noses and tickling fur.
-
-Opening November 24th, 2017 6pm - 9pm
+Opening Friday November 24th, 2017 6pm - 11pm
 
 [How to find us](/contact/)
