@@ -12,6 +12,8 @@ author: Marilyn Thompson
 ---
 Italian esoteric feline extravaganza.
 
-Opening Friday November 24th, 2017 6pm - 11pm
+Opening Friday November 24th 2017, 6pm - 11pm
 
 [How to find us](/contact/)
+
+![The Fool](/media/The Fool.jpg "The Fool")
