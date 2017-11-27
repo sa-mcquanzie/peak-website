@@ -15,3 +15,5 @@ A class with Mascha whose [AlCATraz' Notes](http://www.peak-art.org/posts/mascha
 6pm, Thursday 30th November
 
 £6 voluntary contribution, real cat.
+
+[How to find us](http://www.peak-art.org/contact/)
