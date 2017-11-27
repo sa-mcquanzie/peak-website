@@ -12,4 +12,6 @@ ongoing: false
 ---
 A class with Mascha whose [AlCATraz' Notes](http://www.peak-art.org/posts/mascha-agoscini/) is on show at Peak from November 24th to December 4th.
 
+6pm, Thursday 30th November
+
 £6 voluntary contribution, real cat.
