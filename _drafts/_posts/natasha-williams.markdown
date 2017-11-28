@@ -1,20 +1,17 @@
 ---
-title: Natasha Williams
+title: Natasha Lisa
 ongoing: true
-start: 2017-12-06 00:00:00 +0000
-end: 2017-12-22 00:00:00 +0000
-archive: 2017-12-23 00:00:00 +0000
+start: 2017-12-06 18:00:00 +0000
+end: 2017-12-24 18:00:00 +0000
+archive: 2017-12-24 18:00:00 +0000
 cover: "/media/tasha-header.jpg"
-tagline: Icons
+tagline: Afro Deco Christmas!
 date: 2017-11-20 13:38:34 +0000
+layout: post
+author: Marilyn Thompson
 ---
+Opening December 6th, 2017
 
-Natasha William yadda yadda yadda... 
-
-<!--more-->
-
-She has exhibited in Italy with Novella Parigini, her mentor: who shares a very privileged Cat vision. In London she has exhibited for the Feline Art Society and at the Music Room. Mascha illustrated and published ‘A view from the cat’ about her life in Garcia’s time. So here is the exhibition which tell us she is so sorry to be to much human and wishes to remember more the wet noses and tickling fur.
-
-Opening November 24th, 2017 6pm - 9pm
+7pm - 11pm
 
 [How to find us](/contact/)
