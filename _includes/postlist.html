@@ -9,11 +9,9 @@
   {% if archivedate > todaysdate %}
     {% if startdate < todaysdate %}
         <br />
-	{% if forloop.first %}
         <div class="postlist-heading">
           <h1>Now at Peak</h1>
         </div>
-	{% endif %}
         {% include preview.html %}
     {% endif %}
   {% endif %}
