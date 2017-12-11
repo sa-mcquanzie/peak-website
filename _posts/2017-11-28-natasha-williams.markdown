@@ -10,7 +10,9 @@ date: 2017-11-28 00:00:00 +0000
 layout: post
 author: Marilyn Thompson
 ---
-Monday -- Tuesday, 11am to 3pm
+Monday, 11am to 3pm
+
+Tuesday, 11am to 4pm
 
 Wednesday -- Friday, 11am to 5pm
 
