@@ -16,6 +16,6 @@ Tuesday, 11am to 4pm
 
 Wednesday -- Friday, 11am to 5pm
 
-Saturday 11am to 6pm
+Saturday, 11am to 6pm
 
 [How to find us](/contact/)
