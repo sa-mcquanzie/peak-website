@@ -10,8 +10,10 @@ date: 2017-11-28 00:00:00 +0000
 layout: post
 author: Marilyn Thompson
 ---
-Opening December 6th, 2017
+Monday -- Tuesday, 11am to 3pm
 
-7pm - 11pm
+Wednesday -- Friday, 11am to 5pm
+
+Saturday 11am to 6pm
 
 [How to find us](/contact/)
