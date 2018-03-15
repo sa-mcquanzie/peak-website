@@ -18,7 +18,7 @@ Taking influences from many different styles of music, Haich re-imagines the con
 
 Ashley Holmes works individually and collaboratively across video, performance, sculpture and music. He combines an interest in technical processes of moving image and sound, with a critical understanding of the dynamic emotional conditions that can be considered within the context of the term ‘raciology’ - a discourse that assumes certain stereotypes, prejudices, images and identities.
 
-**Opening December 6th, 2017**
+**Opening March 22nd, 2017**
 
 7pm - 11pm
 
