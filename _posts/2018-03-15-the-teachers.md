@@ -5,7 +5,7 @@ cover: "/media/teachers-header.jpg"
 title: The Teachers
 date: 2018-03-15 00:00:00 +0000
 tagline: Ashley Holmes x Haich
-start: 2018-03-22 19:00:00 +0000
+start: 2018-03-22 10:00:00 +0000
 end: 2018-04-12 17:00:00 +0100
 archive: 2018-04-12 05:01:00 +0100
 ongoing: true
