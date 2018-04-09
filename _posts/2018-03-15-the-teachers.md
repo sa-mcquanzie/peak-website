@@ -6,13 +6,13 @@ title: The Teachers
 date: 2018-03-15 00:00:00 +0000
 tagline: Ashley Holmes x Haich
 start: 2018-03-22 10:00:00 +0000
-end: 2018-04-12 17:00:00 +0100
-archive: 2018-04-12 05:01:00 +0100
+end: 2018-04-19 17:00:00 +0100
+archive: 2018-04-12 04:01:00 +0000
 ongoing: true
 ---
 The Teachers​ ​is a collaborative audio-visual presentation by London-based electronic artist, ​Haich​ and Sheffield-based visual artist, ​Ashley Holmes​. The presentation is centred around newly made film, painting and installation works by Holmes, that respond to the recently released EP by Haich, titled Unbalanced.
 
-​A live performance by Haich of his new music will be taking place in the project space at Peak on the evening of the opening.
+​A live performance by Haich of his new music will be taking place in the project space at Peak on the evening of the private view.
 
 Taking influences from many different styles of music, Haich re-imagines the conventions from genres spanning as wide as dub, soul, techno and grime and uses them as a conduit to create the theme music to his own perplexingly awkward yet beautiful universe.
 
