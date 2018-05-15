@@ -3,6 +3,7 @@ pages:
 - _pages/contact/index.md
 - index.html
 hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout

@@ -6,6 +6,7 @@ pages:
 - _posts/2017-10-24-launch.markdown
 - _posts/2017-11-20-mascha-agoscini.markdown
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
