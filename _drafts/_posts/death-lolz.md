@@ -5,10 +5,10 @@ cover: "/media/deathlolz-header.jpg"
 title: DEATH LOLZ
 date: 2018-05-22 00:00:00 +0000
 ongoing: true
-start: 2018-05-17 23:00:00 +0000
-end: 2018-06-20 23:00:00 +0000
+start: 2018-05-18 00:00:00 +0100
+end: 2018-06-21 00:00:00 +0100
 tagline: DEATH LOLZ
-archive: ''
+archive: 2018-06-22 00:00:00 +0100
 ---
 **The Age of LOLZ is Over. Long Live DEATH LOLZ**
 
