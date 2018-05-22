@@ -21,3 +21,5 @@ Various talks for the public will follow throughout May and June.
 Dan Mitchell is based in London, UK. Recent exhibitions include _Sports_, 3236RLS, Catford, UK (2017); _New Dead City_, Oracle, Berlin, Germany (2016), _Alcoholism_, Celine, Glasgow, Scotland (2016) and _Theft Is Vision,_ LUMA Westbau, Zurich, Switzerland (2018). Mitchell is also the publisher of Hard Mag, and co-founder of the Artist Self-Publishing Fair (ASP).
 
 [deathlolz.uk](http://deathlolz.uk/) and social media #deathlolz
+
+Open Tuesday to Friday: 10am - 3pm and Saturday 11am - 6pm
