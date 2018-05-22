@@ -1,10 +1,4 @@
 ---
-pages:
-- _posts/2018-03-15-the-teachers.md
-- _posts/2017-11-28-natasha-williams.markdown
-- _posts/2017-11-24-cat-life-drawing.md
-- _posts/2017-10-24-launch.markdown
-- _posts/2017-11-20-mascha-agoscini.markdown
 hide_body: false
 is_partial: false
 fields:
@@ -58,3 +52,10 @@ fields:
   type: text
   hidden: false
   default: Marilyn Thompson
+pages:
+- _posts/death-lolz.md
+- _posts/2018-03-15-the-teachers.md
+- _posts/2017-11-24-cat-life-drawing.md
+- _posts/2017-11-28-natasha-williams.markdown
+- _posts/2017-11-20-mascha-agoscini.markdown
+- _posts/2017-10-24-launch.markdown
