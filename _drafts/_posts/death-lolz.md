@@ -5,8 +5,8 @@ cover: "/media/deathlolz-header.jpg"
 title: DEATH LOLZ
 date: 2018-05-22 00:00:00 +0000
 ongoing: true
-start: 2018-05-18 00:00:00 +0100
-end: 2018-06-21 00:00:00 +0100
+start: 2018-05-17 23:00:00 +0000
+end: 2018-06-20 23:00:00 +0000
 tagline: DEATH LOLZ
 archive: ''
 ---
