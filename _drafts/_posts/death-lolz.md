@@ -18,7 +18,7 @@ archive: ''
 
 ---
 
-**DEATH LOLZ PRESENTS...
+**DEATH LOLZ PRESENTS...**
 
 **TUESDAY 5th JUNE 2018**
 
@@ -32,7 +32,7 @@ In his talk Favourite Son, Oliver Corino will read three short pieces about gift
 
 For more info. [www.ocr.fyi](http://www.ocr.fyi/)
 
-Angharad Williams has expressed her preference that there is no introductory text. 
+Angharad Williams has expressed her preference that there is no introductory text.
 
 ---
 
