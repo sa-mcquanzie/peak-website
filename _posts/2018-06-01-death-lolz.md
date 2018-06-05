@@ -14,7 +14,7 @@ archive: 2018-06-18 00:00:00 +0100
 
 **OPENING NIGHT:** Friday May 18th 7.30 till 11pm, 8.30pm The Rebel performs **DEATH LOLZ**
 
-**PLUS:** Launch of the publication **DEATH LOLZ** Presents… Featuring contributions by: Stuart Bannocks, Cammisa Buerhaus, Merlin Carpenter, Stephan Dillemuth, Jeremy Glogan, Georgie Nettell & Morag Keil, Dr. Robert Laing, Lolina, Tobias Madison, Dan Mitchell, Andrew Munks, Catherine Osterberg, Richard Parry, Josephine Pryde, Jacques Rogers, John Russell, Richard Sides, Gili Tal, Marilyn Thompson, Lena Tutunjian, Angharad Williams, plus a conversation with Caroline Busta Includes The Rebel, **DEATH LOLZ** album
+**PLUS:** Launch of the publication **DEATH LOLZ** Presents… Featuring contributions by: Stuart Bannocks, Cammisa Buerhaus, Merlin Carpenter, Stephan Dillemuth, Jeremy Glogan, Georgie Nettell & Morag Keil, Dr. Robert Laing, Lolina, Tobias Madison, Dan Mitchell, Andrew Munks, Catherine Osterberg, Richard Parry, Josephine Pryde, Jacques Rogers, John Russell, Richard Sides, Gili Tal, Marilyn Thompson, Lena Tutunjian, Angharad Williams, plus a conversation with Caroline Busta Includes The Rebel, **DEATH LOLZ** album.
 
 ---
 
