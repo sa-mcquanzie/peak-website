@@ -6,7 +6,8 @@ permalink: "/contact/"
 cover: "/media/contact.jpg"
 author: Marilyn Thompson
 ---
-Peak is located in Unit 340A on the ground floor of the Elephant and Castle Shopping Centre, London, SE1 6TE
+<br />
+**Peak** is located in Unit 340A on the ground floor of the Elephant and Castle Shopping Centre, London, SE1 6TE
 
 Phone: 0207 703 4561 / Email: [info@peak-art.org](mailto:info@peak-art.org)
 
