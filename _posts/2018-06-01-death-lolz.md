@@ -6,9 +6,9 @@ title: DEATH LOLZ
 date: 2018-05-22 00:00:00 +0000
 ongoing: true
 start: 2018-05-17 23:00:00 +0000
-end: 2018-06-17 00:00:00 +0100
+end: 2018-06-16 23:00:00 +0000
 tagline: DEATH LOLZ
-archive: 2018-06-18 00:00:00 +0100
+archive: 2018-06-17 23:00:00 +0000
 ---
 **The Age of LOLZ is Over. Long Live DEATH LOLZ**
 
@@ -34,7 +34,27 @@ For more info. [www.ocr.fyi](http://www.ocr.fyi/)
 
 Angharad Williams has expressed her preference that there is no introductory text.
 
+
 ---
+
+
+**DEATH LOLZ FINISSAGE...**
+
+**SUNDAY 17th JUNE, 2018**
+
+An early evening talk by **Dr. Robert Laing**, followed by a performance by **The Rebel**.
+
+Dr. Laing will present his latest considerations on the psychopathology of **DEATH LOLZ** as the twenty first century continues its bite into the subconsciousness of its denizens and digests the collective energies, ultimately throwing up the unpalatable smorgasbord we take for granted as our daily bread.
+
+**Doors Open** 4.30pm
+
+**Lecture** 5.00pm
+
+**The Rebel** 6.00pm
+
+
+___
+
 
 Dan Mitchell is based in London, UK. Recent exhibitions include _Sports_, 3236RLS, Catford, UK (2017); _New Dead City_, Oracle, Berlin, Germany (2016), _Alcoholism_, Celine, Glasgow, Scotland (2016) and _Theft Is Vision,_ LUMA Westbau, Zurich, Switzerland (2018). Mitchell is also the publisher of Hard Mag, and co-founder of the Artist Self-Publishing Fair (ASP).
 
