@@ -33,5 +33,5 @@ fields:
   hidden: false
   default: Marilyn Thompson
 pages:
-- _pages/_pages/contact/index.md
-- _pages/index.html
+- index.html
+- _pages/contact/index.md
