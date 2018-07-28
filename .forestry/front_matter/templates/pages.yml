@@ -1,4 +1,5 @@
 ---
+label: pages
 hide_body: false
 is_partial: false
 fields:
@@ -33,5 +34,4 @@ fields:
   hidden: false
   default: Marilyn Thompson
 pages:
-- _pages/contact/index.md
 - index.html
