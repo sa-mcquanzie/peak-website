@@ -19,7 +19,7 @@ Penarth Centre<br />
 32 Ormside St<br />
 SE15 1TR</p>
 
-<p>BROADCAST will be live-streaming radio on <a href="http://www.sunflower.fm">sunflower.fm</a> between 17th - 23rd August from Ormside Projects. People can also come and listen at Peak in Elephant and Castle Shopping Centre, SE1 6TE.</p>
+<p>BROADCAST will be live-streaming radio on <a href="http://sunflower.fm">sunflower.fm</a> between 17th - 23rd August from Ormside Projects. People can also come and listen at Peak in Elephant and Castle Shopping Centre, SE1 6TE.</p>
 
 <p>At both locations, a host of potted sunflowers will be present.</p>
 
