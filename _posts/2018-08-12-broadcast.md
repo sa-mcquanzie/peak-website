@@ -11,23 +11,20 @@ archive: 2018-08-24 00:00:00 +0100
 tagline: Marilyn Thompson
 ---
 
-BROADCAST
-Marilyn Thompson
- 
-Opening Friday 17th August 7-11pm
-drinks will be served
- 
-Ormside Projects 
-Penarth Centre
-32 Ormside St
-SE15 1TR 
- 
-BROADCAST will be live-streaming radio on sunflower.fm between 17th - 23rd August from Ormside Projects. People can also come and listen at Peak in Elephant and Castle Shopping Centre, SE1 6TE. 
+<p>Opening <b>Friday 17th August 7-11pm</b><br />
+Drinks will be served</p>
 
-At both locations, a host of potted sunflowers will be present. 
+<p>Ormside Projects<br />
+Penarth Centre<br />
+32 Ormside St<br />
+SE15 1TR</p>
 
-Sunflowers: those big faces, and the tilts of their heads - this one sympathetic, this one haughty, this one jaunty. Grown from small seeds, in a few short months they gain stature, hair, veiny green stalks and leaves. Moving to follow the sun, they toil through their short season to produce one big flower, the centre of which is all seeds, ready to disseminate the next generation. 
+<p>BROADCAST will be live-streaming radio on <a href="www.sunflower.fm">sunflower.fm</a> between 17th - 23rd August from Ormside Projects. People can also come and listen at Peak in Elephant and Castle Shopping Centre, SE1 6TE.</p>
 
-Before radio, electronic communication was always one-to-one. When radio came along, the new 'one-to-many' model was described as a 'broadcast', which was originally an agricultural term, a way of sowing seeds that mimics nature's mechanism: the sower takes a handful of seeds and casts them onto the ground with the sweep of an arm. 
+<p>At both locations, a host of potted sunflowers will be present.</p>
 
-In BROADCAST, listeners are free to tune in, absorb, ignore, analyse, respond to or deal with the content as they wish, and in doing so, this scattering of small seeds may or may not grow.
+<p>Sunflowers: those big faces, and the tilts of their heads - this one sympathetic, this one haughty, this one jaunty. Grown from small seeds, in a few short months they gain stature, hair, veiny green stalks and leaves. Moving to follow the sun, they toil through their short season to produce one big flower, the centre of which is all seeds, ready to disseminate the next generation.</p>
+
+<p>Before radio, electronic communication was always one-to-one. When radio came along, the new 'one-to-many' model was described as a 'broadcast', which was originally an agricultural term, a way of sowing seeds that mimics nature's mechanism: the sower takes a handful of seeds and casts them onto the ground with the sweep of an arm.</p>
+
+<p>In BROADCAST, listeners are free to tune in, absorb, ignore, analyse, respond to or deal with the content as they wish, and in doing so, this scattering of small seeds may or may not grow.</p>
