@@ -1,0 +1,55 @@
+---
+label: Gidi Up
+hide_body: 
+is_partial: 
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: author
+  label: Author
+  type: text
+  hidden: false
+  default: ''
+- name: cover
+  label: Cover
+  type: file
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: ongoing
+  label: Ongoing
+  type: boolean
+  hidden: false
+  default: ''
+- name: start
+  label: Start
+  type: datetime
+  hidden: false
+  default: ''
+- name: end
+  label: End
+  type: datetime
+  hidden: false
+  default: ''
+- name: archive
+  label: Archive
+  type: datetime
+  hidden: false
+  default: ''
+- name: tagline
+  label: Tagline
+  type: text
+  hidden: false
+  default: ''
