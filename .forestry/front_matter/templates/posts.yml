@@ -12,7 +12,7 @@ fields:
   label: Ongoing
   type: boolean
   hidden: false
-  default: ''
+  default: true
 - name: start
   label: Start
   type: datetime
@@ -55,10 +55,10 @@ fields:
   default: Marilyn Thompson
 pages:
 - _posts/2018-09-18-gidi-up.md
+- _posts/2018-03-15-the-teachers.md
 - _posts/2018-06-21-surplus-may-hands-and-sean-roy-parker-the-cafe-takeover.md
 - _posts/2017-11-28-natasha-williams.markdown
-- _posts/2018-03-15-the-teachers.md
-- _posts/2017-11-24-cat-life-drawing.md
-- _posts/2017-11-20-mascha-agoscini.markdown
 - _posts/2018-06-01-death-lolz.md
 - _posts/2017-10-24-launch.markdown
+- _posts/2017-11-24-cat-life-drawing.md
+- _posts/2017-11-20-mascha-agoscini.markdown
