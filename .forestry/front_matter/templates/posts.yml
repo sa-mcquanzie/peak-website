@@ -12,7 +12,7 @@ fields:
   label: Ongoing
   type: boolean
   hidden: false
-  default: true
+  default: false
 - name: start
   label: Start
   type: datetime
