@@ -11,9 +11,6 @@ archive: 2019-04-01 04:01:00 +0000
 ongoing: true
 
 ---
-<p><h2>Island mentality</h2>
-<h3>Angharad Williams</h3></p>
-
 <p><img src="/media/angharad-fullsize.jpg"></p>
 
 <p>‘There’s a strange taste in my mouth and I haven’t been able to shift the flavour for some time now. Maybe I over-did it last week when I went to the mainland, four McDonalds in - I kind-of knew it was a bad idea, still - it tastes so good.’</p>
