@@ -16,12 +16,12 @@ ongoing: true
 
 <p><img src="/media/angharad-fullsize.jpg"></p>
 
-<blockquote><div>‘There’s a strange taste in my mouth and I haven’t been able to shift the flavour for some time now. Maybe I over-did it last week when I went to the mainland, four McDonalds in - I kind-of knew it was a bad idea, still - it tastes so good.’</div></blockquote>
+<p>‘There’s a strange taste in my mouth and I haven’t been able to shift the flavour for some time now. Maybe I over-did it last week when I went to the mainland, four McDonalds in - I kind-of knew it was a bad idea, still - it tastes so good.’</p>
 
 <p>Island mentality is a solo project by Angharad Williams at Peak 2nd March - 6th April
 inclusive.</p>
 
-<br /><br />
+<br />
 
 <p>Opens <b>1st March 7-11pm</b>. Drinks will be served.</p>
 
