@@ -11,7 +11,6 @@ archive: 2019-04-01 04:01:00 +0000
 ongoing: true
 
 ---
-
 <p><h2>Island mentality</h2>
 <h3>Angharad Williams</h3></p>
 
