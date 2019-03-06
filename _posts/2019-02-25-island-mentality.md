@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Marilyn Thompson
-cover: "/media/angharad-banner.jpg"
+cover: "/uploads/2019/03/06/angharad-banner.jpg"
 title: Island Mentality
 date: 2019-01-05 00:00:00 +0000
 tagline: Angharad Williams
