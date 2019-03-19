@@ -15,8 +15,7 @@ ongoing: true
 
 <p>‘There’s a strange taste in my mouth and I haven’t been able to shift the flavour for some time now. Maybe I over-did it last week when I went to the mainland, four McDonalds in - I kind-of knew it was a bad idea, still - it tastes so good.’</p>
 
-<p>Island mentality is a solo project by Angharad Williams curated by Christabel Stewart at Peak 2nd March - 12th April
-inclusive.</p>
+<p>Island mentality is a solo project by Angharad Williams curated by Christabel Stewart.</p>
 
 <br />
 
@@ -24,7 +23,7 @@ inclusive.</p>
 
 <p>Further events to be announced during the show.</p>
 
-<p>Island Mentality will be at Peak from 01.03.19 -- 06.04.19</p><br />
+<p>Island Mentality will be at Peak from 1st March  -- 12th April 2019</p><br />
 <p><b>Tuesday - Friday </b>10:00 -- 18:00<br />
 <b>Saturday </b>11:00 -- 18:00 <br />
 
