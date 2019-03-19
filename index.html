@@ -4,11 +4,10 @@ title: Home
 tagline: Project space and art gallery
 cover: "/media/header.jpg"
 author: Marilyn Thompson
----
 
+---
 {% assign tmp = "/" | append: site.baseurl %}
 {% if page.url == tmp or page.url == "/" %}
-    <div class="divider"></div>
     {% include postlist.html %}
 {% else %}
 <!--     <h1 class="top-text">More ...</h1> -->
