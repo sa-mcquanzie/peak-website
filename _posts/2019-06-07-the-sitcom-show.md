@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Marilyn Thompson
-cover: "/email/the-sitcom-show-mailout.jpg"
+cover: "/media/the-sitcom-show-header.jpg"
 title: The Sitcom Show
 date: 2019-06-06 01:00:00 +0100
 tagline: Emily Pope
