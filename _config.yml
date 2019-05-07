@@ -13,7 +13,7 @@ emptyArray: []
 paginate: 10
 # baseurl: "/ezorademo" # the subpath of your site, e.g. /blog/
 baseurl: ""
-url: "http://localhost" # the base hostname & protocol for your site
+url: "http://www.peak-art.org" # the base hostname & protocol for your site
 highlights: pygments
 permalink: posts/:title/
 include: ["_pages"]
