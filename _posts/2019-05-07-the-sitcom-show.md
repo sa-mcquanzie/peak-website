@@ -5,8 +5,8 @@ cover: "/media/the-sitcom-show-header.jpg"
 title: The Sitcom Show
 date: 2019-05-07T00:00:00.000+00:00
 tagline: Emily Pope
-start: 2019-05-10 01:00:00 +0100
-end: 2019-06-19 20:00:00 +0100
+start: 2019-05-10T00:00:00.000+00:00
+end: 2019-06-19T19:00:00.000+00:00
 archive: 2019-06-20T04:01:00.000+00:00
 ongoing: true
 
@@ -27,15 +27,15 @@ ongoing: true
 
 <p><b>Emily Pope</b> is an artist based in London. She is interested in representations of economic precarity.  Her work explores the female comic as a position to subvert and repurpose. Recent exhibitions & projects include: Time for Success at Tate Britain, Episode 4 - The Keyboard Lesson, Becky’s London; the White Pube online residency; ASP, ICA London; Episode 1 - The Court Summons, Ladette Space, London; Tarantellegra, Hester, New York; and together with Ruth Angel Edwards: Got 2 B, an ongoing radio collaboration</p>
 
-<p>The Sitcom show will be at Peak from <b>10th - 19th June</b> 2019.<br />
-  
- Opening <b>Thursday 9th June, 7pm - 11pm</b></p>
- 
- <p>Hours:<br />
- Tuesday - Friday: 10am - 6pm<br />
- Saturday: 11am - 7pm<br />
- Sunday - Monday: Closed</p>
- <br />
+<p>The Sitcom show will be at Peak from <b>10th May- 19th June</b> 2019.<br />
+
+Opening <b>Thursday 9th May, 7pm - 11pm</b></p>
+
+<p>Hours:<br />
+Tuesday - Friday: 10am - 6pm<br />
+Saturday: 11am - 7pm<br />
+Sunday - Monday: Closed</p>
+<br />
 
 <p><a href="http://www.emilypope.co.uk">www.emilypope.co.uk</a><br />
 Instagram: <b>@emily_pope90</b><br />
