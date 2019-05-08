@@ -3,7 +3,7 @@ layout: post
 author: Marilyn Thompson
 cover: "/media/the-sitcom-show-header.jpg"
 title: The Sitcom Show
-date: 2019-06-07T00:00:00.000+00:00
+date: 2019-05-07T00:00:00.000+00:00
 tagline: Emily Pope
 start: 2019-05-10 01:00:00 +0100
 end: 2019-06-19 20:00:00 +0100
