@@ -5,8 +5,8 @@ cover: "/media/the-sitcom-show-header.jpg"
 title: The Sitcom Show
 date: 2019-06-07 01:00:00 +0100
 tagline: Emily Pope
-start: 2019-06-10 01:00:00 +0100
-end: 2019-06-19T19:00:00.000+00:00
+start: 2019-05-10 01:00:00 +0100
+end: 2019-06-19 19:00:00.000+00:00
 archive: 2019-06-20T04:01:00.000+00:00
 ongoing: true
 
