@@ -1,3 +1,6 @@
+---
+
+---
 {% capture todaysdate %}{{ 'now' | date: '%s' }}{% endcapture %}
 
 <div class="postlist-container">
@@ -27,13 +30,14 @@
         <h1>Upcoming Events</h1>
     </div>
   {% endif %}
-  {% capture startdate %}{{ post.start | convert: "date" | date: '%s' }}{% endcapture %}
+  {% capture startdate %}
+	{{ post.start | convert: "date" | date: '%s' }}
+   {% endcapture %}
     {% if startdate > todaysdate %}
       {% include preview.html %}
     {% endif %}
 {% endfor %}
 </div>
-
 
 <!-- Loop through past events -->
 {% for post in paginator.posts %}
