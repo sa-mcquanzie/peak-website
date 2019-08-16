@@ -11,7 +11,7 @@ archive: 2019-09-29T04:01:00.000+00:00
 ongoing: true
 
 ---
-<p>Hard Shoulder will be at Peak from 23rd August to 28th September 2019</p><br />
+<p>And I would've Got Away With It will be at Peak from 23rd August to 28th September 2019</p><br />
 
 Opening: <b>Friday 23rd August</b> 7pm - 10pm
 
