@@ -27,16 +27,15 @@
         <h1>Upcoming Events</h1>
     </div>
   {% endif %}
-  {% capture startdate %}
-	{{ post.start | convert: "date" | date: '%s' }}
-   {% endcapture %}
-    {% if startdate > todaysdate %}
-      {% include preview.html %}
-    {% endif %}
+  {% capture startdate %}{{ post.start | convert: "date" | date: '%s' }}{% endcapture %}
+  {% if startdate > todaysdate %}
+    {% include preview.html %}
+  {% endif %}
 {% endfor %}
 </div>
 
 <!-- Loop through past events -->
+<div class="postlist-container">
 {% for post in paginator.posts %}
   {% if forloop.first %}
     <br />
@@ -46,10 +45,10 @@
   {% endif %}
   {% capture archivedate %}{{ post.archive | convert: "date" | date: '%s' }}{% endcapture %}
   {% if archivedate < todaysdate %}
-
     {% include preview.html %}
   {% endif %}
 {% endfor %}
+</div>
 
 <!-- Pagination links -->
 {% if paginator.total_pages > 1 %}
