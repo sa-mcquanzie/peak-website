@@ -3,7 +3,7 @@ layout: post
 author: Marilyn Thompson
 cover: "/media/dani-smith-banner.jpg"
 title: And I Would've Got Away With It
-date: 2019-08-16 01:00:00 +0100
+date: 2019-08-16T00:00:00.000+00:00
 tagline: Dani Smith
 start: 2019-08-23T10:00:00.000+00:00
 end: 2019-09-28T19:00:00.000+00:00
