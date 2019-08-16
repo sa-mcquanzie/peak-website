@@ -3,15 +3,14 @@ layout: post
 author: Marilyn Thompson
 cover: "/media/dani-smith-banner.jpg"
 title: And I Would've Got Away With It
-date: 2019-08-23 00:00:00 +0000
+date: 2019-08-23T00:00:00.000+00:00
 tagline: Dani Smith
-start: 2019-08-23 10:00:00 +0000
-end: 2019-09-28 19:00:00 +0000
-archive: 2019-09-29 04:01:00 +0000
+start: 2019-08-23T10:00:00.000+00:00
+end: 2019-09-28T19:00:00.000+00:00
+archive: 2019-09-29T04:01:00.000+00:00
 ongoing: true
 
 ---
-
 <p>Hard Shoulder will be at Peak from 23rd August to 28th September 2019</p><br />
 
 Opening: <b>Friday 23rd August</b> 7pm - 10pm
