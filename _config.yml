@@ -10,7 +10,7 @@ favicon: favicon.png
 emptyArray: []
 
 # Build settings
-paginate: 10
+paginate: 30
 # baseurl: "" # the subpath of your site, e.g. /blog/
 baseurl: ""
 url: "http://www.peak-art.org" # the base hostname & protocol for your site
