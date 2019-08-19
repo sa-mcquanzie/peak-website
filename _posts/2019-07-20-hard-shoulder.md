@@ -3,11 +3,11 @@ layout: post
 author: Marilyn Thompson
 cover: "/media/racheal-crowther-banner.jpg"
 title: Hard Shoulder
-date: 2019-07-20 00:00:00 +0000
+date: 2019-07-20T00:00:00.000+00:00
 tagline: Racheal Crowther
-start: 2019-07-20 10:00:00 +0000
-end: 2019-08-17 19:00:00 +0000
-archive: 2019-08-18 04:01:00 +0000
+start: 2019-07-20T10:00:00.000+00:00
+end: 2019-08-17T19:00:00.000+00:00
+archive: 2019-08-18T04:01:00.000+00:00
 ongoing: true
 
 ---
