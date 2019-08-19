@@ -50,7 +50,7 @@ h1 {
 
 
 .postlist-container {
-  border-bottom:solid 10px #000000;
+  border-bottom:solid 0 #000000;
   @media (max-width: $column-width-trigger) {
     border-bottom: none;
   }
