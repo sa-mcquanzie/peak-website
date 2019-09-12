@@ -3,7 +3,8 @@
 <div class="postlist-container">
 
     <div class="postlist-heading">
-      <h1>Now at Peak London</h1>
+      <br />
+      <h1>Now at Peak</h1>
     </div>
 {% for post in paginator.posts | sort: "start" %}
   {% capture archivedate %}{{ post.archive | convert: "date" | date: '%s' }}{% endcapture %}
@@ -11,24 +12,11 @@
   {% assign current_events = "" split: "" %}
   {% if archivedate > todaysdate %}
     {% if startdate < todaysdate %}
-
         {% include preview.html %}
     {% endif %}
   {% endif %}
 {% endfor %}
 </div>
-
-<!-- Loop through LA Events -->
-<div class="postlist-container">
-      <div class="postlist-heading">
-          <h1>Now at Peak @ Jenny's Los Angeles</h1>
-      </div>
-    {% for post in paginator.posts %}
-    {% if location == "la" %}
-      {% include preview.html %}
-    {% endif %}
-  {% endfor %}
-  </div>
 
 
 <!-- Loop through upcoming events -->
