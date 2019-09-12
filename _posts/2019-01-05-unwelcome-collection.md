@@ -9,6 +9,7 @@ start: 2018-12-20 10:00:00 +0000
 end: 2019-01-13 19:00:00 +0000
 archive: 2019-01-13 04:01:00 +0000
 ongoing: true
+location: london
 
 ---
 <p><b>Unwelcome Collection</b> by Ruth Angel Edwards, Curtly Thomas and Adam Gallagher, now at Peak until January 13th</p>

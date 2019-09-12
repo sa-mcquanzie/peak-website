@@ -9,6 +9,7 @@ start: 2019-04-19 12:00:00 +0000
 end: 2019-04-20 19:00:00 +0000
 archive: 2019-04-21 05:01:00 +0100
 ongoing: true
+location: london
 
 ---
 <p>We warmly invite MCs, producers and DJs who are connected to Elephant & Castle’s astonishing music history to take part in PEAK TIMES, a live documentation project in the Elephant & Castle Shopping Centre’s artist-run @peak_london project space.</p>

@@ -6,6 +6,8 @@ archive: 2017-11-04 00:00:00 +0000
 cover: "/media/launch.jpg"
 tagline: Friday November 3rd 2017, 6pm - 9pm
 date: 2017-10-24 00:00:00 +0000
+location: london
+
 ---
 
 Grand opening. Come and have a drink and possibly some popcorn.

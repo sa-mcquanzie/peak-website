@@ -9,6 +9,8 @@ start: 2018-08-17 00:00:00 +0100
 end: 2018-08-23 00:00:00 +0100
 archive: 2018-08-25 00:00:00 +0100
 tagline: Marilyn Thompson
+location: london
+
 ---
 
 <p>Opening <b>Friday 17th August 7-11pm</b><br />

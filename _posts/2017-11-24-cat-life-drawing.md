@@ -9,6 +9,8 @@ end: 2017-11-30 20:00:00 +0000
 archive: 2017-11-30 20:00:00 +0000
 tagline: With Mascha Angoscini
 ongoing: false
+location: london
+
 ---
 A class with Mascha whose [AlCATraz' Notes](http://www.peak-art.org/posts/mascha-agoscini/) is on show at Peak from November 24th to December 4th.
 

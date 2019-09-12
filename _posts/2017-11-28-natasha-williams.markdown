@@ -9,5 +9,7 @@ tagline: Afro Deco Christmas!
 date: 2017-11-28 00:00:00 +0000
 layout: post
 author: Marilyn Thompson
+location: london
+
 ---
 [How to find us](/contact/)

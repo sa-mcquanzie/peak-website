@@ -9,6 +9,8 @@ tagline: AlCATraz' Notes
 date: 2017-11-20 13:38:34 +0000
 layout: post
 author: Marilyn Thompson
+location: london
+
 ---
 Italian esoteric feline extravaganza.
 

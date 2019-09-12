@@ -9,6 +9,7 @@ start: 2019-05-10T00:00:00.000+00:00
 end: 2019-06-19T19:00:00.000+00:00
 archive: 2019-06-20T04:01:00.000+00:00
 ongoing: true
+location: london
 
 ---
 <p>I’m pleased to report, things have actually been getting ‘better’ (in quotation marks). I’ve been looking after myself. Not going out so much. Going running, sometimes even twice a week. Eating one piece of toast in the morning instead of four, not staying in bed all day crying or eating microwaved Aunt Bessies yorkshire puddings. </p>

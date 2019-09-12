@@ -17,6 +17,21 @@
 {% endfor %}
 </div>
 
+<!-- Loop through upcoming events -->
+<div class="postlist-container">
+  {% for post in paginator.posts %}
+    {% if forloop.first %}
+      <br />
+      <div class="postlist-heading">
+          <h1>Peak @ Jenny's Los Angeles</h1>
+      </div>
+    {% endif %}
+    {% if location == "la" %}
+      {% include preview.html %}
+    {% endif %}
+  {% endfor %}
+  </div>
+
 
 <!-- Loop through upcoming events -->
 <div class="postlist-container">

@@ -9,6 +9,8 @@ start: 2018-06-21 00:00:00 +0100
 end: 2018-07-01 00:00:00 +0100
 archive: 2018-07-01 00:00:00 +0100
 tagline: May Hands & Sean Roy Parker
+location: london
+
 ---
 > From 21/06/18 - 01/07/18 **The Café** are taking over Peak
 >

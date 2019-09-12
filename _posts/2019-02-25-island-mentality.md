@@ -9,6 +9,7 @@ start: 2019-03-01 10:00:00 +0000
 end: 2019-04-12 19:00:00 +0000
 archive: 2019-04-13 04:01:00 +0000
 ongoing: true
+location: london
 
 ---
 <p><img src="/media/angharad-fullsize.jpg"></p>

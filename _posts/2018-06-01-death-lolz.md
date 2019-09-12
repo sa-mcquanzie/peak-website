@@ -9,6 +9,8 @@ start: 2018-05-17 23:00:00 +0000
 end: 2018-06-16 23:00:00 +0000
 tagline: DEATH LOLZ
 archive: 2018-06-17 23:00:00 +0000
+location: london
+
 ---
 **The Age of LOLZ is Over. Long Live DEATH LOLZ**
 
