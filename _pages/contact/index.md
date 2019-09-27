@@ -15,9 +15,7 @@ Phone: 0207 703 4561 / Email: [info@peak-art.org](mailto:info@peak-art.org)
 
 Sunday to Monday: Closed
 
-Tuesday to Friday: 10am - 6pm
-
-Saturday: 11am - 6pm
+Tuesday to Saturday: 11am to 7pm
 
 Or by appointment
 
