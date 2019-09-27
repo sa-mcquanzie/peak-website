@@ -4,10 +4,9 @@ author: Marilyn Thompson
 cover: "/media/capitalism-banner.jpg"
 title: Hello, My Name Is Capitalism
 date: 2019-10-05 01:00:00 +0100
-tagline: Chto Delat? Karl Holmqvist, Janice Kerbel, Ghislaine Leung, Stuart Middleton,
-  Gili Tal, Simon Thompson
+tagline: Chto Delat? Karl Holmqvist, Janice Kerbel, Ghislaine Leung, Stuart Middleton, Gili Tal, Simon Thompson
 start: 2019-10-05 11:00:00 +0100
-end: 2019-11-09T19:00:00.000+00:00
+end: 2019-11-09T19:00:00.000 +00:00
 archive: 2019-11-09 19:01:00 +0000
 ongoing: true
 location: london
