@@ -2,7 +2,7 @@
 layout: post
 author: Marilyn Thompson
 cover: "/media/capitalism-banner.jpg"
-title: "Hello. My Name Is Capitalism"
+title: "Hello, My Name Is Capitalism"
 date: 2019-09-26 01:00:00 +0100
 tagline: Chto Delat? Karl Holmqvist, Janice Kerbel, Ghislaine Leung, Stuart Middleton, Gili Tal, Simon Thompson
 start: 2019-10-05 11:00:00 +0100
