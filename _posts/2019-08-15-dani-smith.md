@@ -12,7 +12,6 @@ ongoing: true
 location: london
 
 ---
-
 <p>And I Would've Got Away With It will be at Peak from 23rd August to 28th September 2019</p>
 
 <p>Opening: <b>Friday 23rd August</b> 7pm - 10pm</p>
