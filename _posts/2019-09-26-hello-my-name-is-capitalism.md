@@ -26,9 +26,11 @@ Simon Thompson
 
 <p>Opening: <b>Saturday 5th of October</b> 7pm - 10pm</p>
 
-<i><p>The way in which men produce their means of subsistence depends first of all on the nature of the actual means of subsistence they find in existence and have to reproduce. This mode of production must not be considered simply as being the production of the physical existence of the individuals. Rather it is a definite form of activity of these individuals, a definite form of expressing their life, a definite mode of life on their part. As individuals express their life, so they are. What they are, therefore, coincides with their production, both with what they produce and with how they produce. The nature of individuals thus depends on the material conditions determining their production.</p>
+<p>The way in which men produce their means of subsistence depends first of all on the nature of the actual means of subsistence they find in existence and have to reproduce. This mode of production must not be considered simply as being the production of the physical existence of the individuals. Rather it is a definite form of activity of these individuals, a definite form of expressing their life, a definite mode of life on their part. As individuals express their life, so they are. What they are, therefore, coincides with their production, both with what they produce and with how they produce. The nature of individuals thus depends on the material conditions determining their production.
 
-<p>Karl Marx and Frederick Engels, The German Ideology</p></i>
+<br />
+
+Karl Marx and Frederick Engels, The German Ideology</p>
 
 <p>The title of this group exhibition purposely misreads a contemporary subject-formation that is produced (and self-reproduces or subsists, often despite itself) under the rationalised and naturalised conditions of capitalist social relations. A subject who is so enfolded within the totality of these relations that only that same system can reproduce in a combined effect of the productive forces (machines, factories, infrastructure), one’s own labour power (as a commodity) and the social structures one inhabits.</p>
 
