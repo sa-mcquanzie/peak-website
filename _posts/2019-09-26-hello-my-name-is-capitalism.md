@@ -30,7 +30,7 @@ Simon Thompson
 
 <br />
 
-\-Karl Marx and Frederick Engels, The German Ideology</i></p>
+Karl Marx and Frederick Engels, The German Ideology</i></p>
 
 <p>The title of this group exhibition purposely misreads a contemporary subject-formation that is produced (and self-reproduces or subsists, often despite itself) under the rationalised and naturalised conditions of capitalist social relations. A subject who is so enfolded within the totality of these relations that only that same system can reproduce in a combined effect of the productive forces (machines, factories, infrastructure), one’s own labour power (as a commodity) and the social structures one inhabits.</p>
 
