@@ -13,13 +13,6 @@ ongoing: true
 location: london
 
 ---
-Chto Delat?
-Karl Holmqvist
-Janice Kerbel
-Ghislaine Leung
-Stuart Middleton
-Gili Tal
-Simon Thompson
 
 Organised by David Bussel
 
