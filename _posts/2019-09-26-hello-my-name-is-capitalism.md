@@ -13,7 +13,6 @@ ongoing: true
 location: london
 
 ---
-
 Organised by David Bussel
 
 Opening: **Saturday 5th of October** 7pm - 10pm
@@ -32,4 +31,3 @@ The works in the exhibition cannot of course resolve the complexities and contra
 **Tuesday - Saturday** 11am - 7pm
 
 [How to find us](http://www.peak-art.org/contact)
-
