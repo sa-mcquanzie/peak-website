@@ -8,6 +8,7 @@ instagram: peak_london
 favicon: favicon.png
 
 emptyArray: []
+exclude: [vendor]
 
 # Build settings
 paginate: 30
