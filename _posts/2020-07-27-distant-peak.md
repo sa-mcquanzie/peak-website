@@ -12,6 +12,7 @@ ongoing: true
 location: london
 
 ---
+
 **02.07–05.07** Martin Dixon
 
 **06.07–08.07** Poppy Frean
@@ -61,3 +62,5 @@ location: london
 **27.08–29.08** Sarah Hollamby
 
 **30.08–31.08** Martha Armitage
+
+\[How to find us\]([http://www.peak-art.org/contact](http://www.peak-art.org/contact "http://www.peak-art.org/contact"))
