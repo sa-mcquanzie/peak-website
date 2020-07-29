@@ -12,7 +12,6 @@ ongoing: true
 location: london
 
 ---
-
 **02.07–05.07** Martin Dixon
 
 **06.07–08.07** Poppy Frean
