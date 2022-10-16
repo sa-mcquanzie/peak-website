@@ -10,7 +10,7 @@ favicon: favicon.png
 emptyArray: []
 exclude: [vendor]
 
-baseurl: "/peak-website"
+baseurl: "/"
 url: "https://sa-mcquanzie.github.io"
 
 # Build settings
